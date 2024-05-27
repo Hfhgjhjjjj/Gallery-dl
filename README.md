@@ -1,8 +1,9 @@
-1.Install Gallery-dl    .1mldir <directory>
+1.Install Gallery-dl    .1mkdir <directory>
 2.Install Depandencies   2.cd directory 
 3.Install Requirements 
-4.Requirements Satisfied 
-5.Username Command Showing 
+4.Requirements Satisfied     note:to store the 
+5.Username Command Showing     downloaded image 
+             
 6.Put Username 
 7.!pip install gallery-dl
 
